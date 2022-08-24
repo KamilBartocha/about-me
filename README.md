@@ -13,8 +13,8 @@
 - :cyclone: I'm currenlty learning `machine learning` and `data science` 
 
 ## :floppy_disk: Projects
-- :mortar_board: [Master thesis](https://github.com/KamilBartocha/master-thesis). Title: Representation and processing of data in the space of spherical functions, applications in machine learning algorithms
-- :mortar_board: [todo(upload)](https://github.com/KamilBartocha/master-thesis). Title: Learning Support Vector Machines in Krein spaces
+- :mortar_board: [Master thesis](https://github.com/KamilBartocha/master-thesis) Title: Representation and processing of data in the space of spherical functions, applications in machine learning algorithms
+- :mortar_board: [Bechelor thesis](https://github.com/KamilBartocha/bachelor-thesis) Title: Learning Support Vector Machines in Krein spaces
 - :cyclone: [Data Analysis in R](https://github.com/KamilBartocha/analiza_danych) TO CLEAN UP, Readme update
 - :cyclone: [Traiding Bot in Java](https://github.com/KamilBartocha/Math_WMS_courses/tree/master/Applied_java) TO CLEAN UP, Readme update
 - :cyclone: [Calculator in Kotlin](https://github.com/KamilBartocha/Math_WMS_courses/tree/master/IT_system_managment/Calculator)
