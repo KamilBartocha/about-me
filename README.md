@@ -10,7 +10,7 @@
 - :wrench: Main automation tool: :robot:`Robot Framework` 
 - :cyclone: Passionate about quality 
 - :cyclone: I'm currently working in `consult.red`
-- :cyclone: I'm currenlty learning `machine learning` and `data science` 
+- :cyclone: I'm currenlty learning `machine learning, API testsing` and `Google Cloud`
 
 ## :floppy_disk: Projects
 - :mortar_board: [Master thesis](https://github.com/KamilBartocha/master-thesis) Title: Representation and processing of data in the space of spherical functions, applications in machine learning algorithms
