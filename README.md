@@ -24,7 +24,7 @@
 - :cyclone: [Basics of Machine Learning Class in Python](https://github.com/KamilBartocha/Machine_Learning/tree/master/BOML_project) Super resolution - upscaling project 
 - :cyclone: [Calculation methods Class in C](https://github.com/KamilBartocha/Calculation_methods)
 - :cyclone: [Robot Framework syntax](https://github.com/KamilBartocha/robot-framework) in progress
-
+- :cyclone: [SQL class](https://github.com/KamilBartocha/SQL-wms-class) Some sql basics
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  Connect with me
