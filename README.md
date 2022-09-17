@@ -13,6 +13,12 @@
 - :cyclone: I'm currenlty learning `machine learning, API testsing` and `Google Cloud`
 
 ## :floppy_disk: Projects
+
+### :baby: actual ones
+- :cyclone: [API testing](https://github.com/KamilBartocha/API-testing) API testing self learning process
+- :cyclone: [Robot Framework syntax](https://github.com/KamilBartocha/robot-framework) in progress
+
+### :older_man: old ones
 - :mortar_board: [Master thesis](https://github.com/KamilBartocha/master-thesis) Title: Representation and processing of data in the space of spherical functions, applications in machine learning algorithms
 - :mortar_board: [Bechelor thesis](https://github.com/KamilBartocha/bachelor-thesis) Title: Learning Support Vector Machines in Krein spaces
 - :cyclone: [Data Analysis in R](https://github.com/KamilBartocha/analiza_danych) TO CLEAN UP, Readme update
@@ -23,7 +29,6 @@
 - :cyclone: [Option pricing in Hull-White model in Python](https://github.com/KamilBartocha/Math_WMS_courses/tree/master/Option_pricing_Hull_White_model) Tesla stock price prediction
 - :cyclone: [Basics of Machine Learning Class in Python](https://github.com/KamilBartocha/Machine_Learning/tree/master/BOML_project) Super resolution - upscaling project 
 - :cyclone: [Calculation methods Class in C](https://github.com/KamilBartocha/Calculation_methods)
-- :cyclone: [Robot Framework syntax](https://github.com/KamilBartocha/robot-framework) in progress
 - :cyclone: [SQL class](https://github.com/KamilBartocha/SQL-wms-class) Some sql basics
 
 
