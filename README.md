@@ -3,6 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Test+Automation+Engineer;QA+|+Python+|+Robot+Framework;Math+degree+|+ML+enthusiasts&center=true&width=500&height=50"></a>
 </p>
 
+## moved this section into magic repo: https://github.com/KamilBartocha/KamilBartocha
+
 ##  :sassy_man: About me
 - :mortar_board: I graduaded in `mathematics` at the AGH University of Science and Technology in Krakow
 - :computer: Sience 2020 im working as `QA`/`Integrator`/`Tests Automation Engineer`
